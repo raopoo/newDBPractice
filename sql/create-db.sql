@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS fk_test;
+
+CREATE DATABASE fk_test;
